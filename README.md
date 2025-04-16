@@ -5,6 +5,8 @@ It was my first docker example (other than here https://www.freecodecamp.org/new
 
 I was expecting to have html/javascript communicating with a python via docker, but instead this both javascript and python is in the docker.
 
+Communication via Javascript and python via "OK" on stdout from python, and read by javascript.
+
 -----------------------------------------------
 
 To run app you need to have Docker installed, after run
